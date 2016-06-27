@@ -15,3 +15,12 @@ Google IO Extended Bangkok
 
 * Firebase Cloud Messaging
   https://docs.google.com/presentation/d/1HPLk1PXaGUjqTlPB6RHsgrTunJNo10kbGZ-JX_7JELw/edit?usp=sharing
+
+* Realtime chat with Firebase (Web)
+https://drive.google.com/file/d/0B47pmq6ADSJKeHZsNGpvc195Z1E/view?usp=sharing
+
+* Deep Drive into Progressive Web Apps (Web)
+https://drive.google.com/file/d/0B47pmq6ADSJKUmNJeXFZNFB1NXc/view?usp=sharing
+
+* Service Worker (Web)
+https://drive.google.com/file/d/0B47pmq6ADSJKLTQtaDRFa25nUnc/view?usp=sharing
